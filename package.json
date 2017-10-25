@@ -1,0 +1,29 @@
+{
+  "name": "smartcontracts",
+  "version": "1.0.0",
+  "description": "A simple smart contract using solidity",
+  "main": "truffle.js",
+  "scripts": {
+    "test": "truffle test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nanospinel84/SmartContracts.git"
+  },
+  "keywords": [
+    "smart",
+    "contract",
+    "solidity",
+    "ethereum",
+    "person"
+  ],
+  "author": "Rafael Espinel <nanospinel@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nanospinel84/SmartContracts/issues"
+  },
+  "homepage": "https://github.com/nanospinel84/SmartContracts#readme",
+  "devDependencies": {
+    "chai": "^4.1.2"
+  }
+}
